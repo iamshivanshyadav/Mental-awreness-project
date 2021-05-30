@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "mentalawareness-by-smct2",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

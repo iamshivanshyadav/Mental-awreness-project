@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.text-box{    
+
+    min-height: 110vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(166, 168, 175, 0.801),rgba(4,9,30,0.7)),url( Mental-health.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+}
+
+.text-box h1
+{
+    width: 90%;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+
+    font-size:70px;
+    color: black;
+}
+
+
+.text-box p{ width: 90%;
+    top: 42%;
+    text-align: center;
+    position: absolute;
+    margin: 10px 0 40px;
+    font-size:20px; 
+}
+.text-box2{   
+    backface-visibility: 10%; 
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(166, 168, 175, 0.801),rgba(4,9,30,0.7)),url( getty_486848528_359104.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+}
+.text-box2 h1
+{
+    width: 90%;
+    position: absolute;
+    top: 5%;
+    text-align: center;
+
+    font-size:70px;
+    color: White;
+}
+
+
+.text-box2 p{ width: 90%;
+    top: 18%;
+    text-align: center;
+    position: absolute;
+    margin: 10px 0 40px;
+    font-size:20px;
+    color: White; 
+}
+
+.text-box2 ol{ width: 90%;
+    top: 35%;
+    text-align: center;
+    position: absolute;
+    margin: 10px 0 40px;
+    font-size:20px;
+    color:white; 
+}
+
+.text-box3{   
+    backface-visibility: 10%; 
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(166, 168, 175, 0.801),rgba(197, 197, 197, 0.822)),url( Breaking-Down-the-Shame-of-Male-Depression-RM-722x406.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    top:10;
+    text-align: center;
+}
+.text-box3 h1
+{
+    width: 100%;
+    position: absolute;
+    top: 5%;
+    text-align: center;
+
+    font-size:30px;
+    color: black;
+}
+
+.lll{ 
+    margin-top: 120px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.lll:hover{
+    border: 1px solid lightblue;
+    background: lightblue;
+    transition:1s;
+}
+.aas{ 
+    margin-top: 121px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.aas:hover{
+    border: 1px solid rgb(219, 162, 245);
+    background: rgb(219, 162, 245);
+    transition:1s;
+}
+
+.sneh{ 
+    margin-top: 122px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.sneh:hover{
+    border: 1px solid rgb(56, 240, 10);
+    background: rgb(56, 240, 10);
+    transition:1s;
+}
+.rw{ 
+    margin-top: 122px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.rw:hover{
+    border: 1px solid rgba(253, 237, 6, 0.979);
+    background: rgba(253, 237, 6, 0.979);
+    transition:1s;
+}
+
+.psycho{ 
+    margin-top: 122px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.psycho:hover{
+    border: 1px solid rgb(21, 194, 224);
+    background: rgb(21, 194, 224);
+    transition:1s;
+}
+
+.very{ 
+    margin-top: 122px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.very:hover{
+    border: 1px solid rgb(238, 12, 12);
+    background: rgb(238, 12, 12);
+    transition:1s;
+}
+
+.min{ 
+    margin-top: 122px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px ;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.min:hover{
+    border: 1px solid rgb(15, 155, 15);
+    background: rgb(15, 155, 15);
+    transition:1s;
+}
+
+
