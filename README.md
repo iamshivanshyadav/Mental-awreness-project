@@ -3,24 +3,24 @@ This is a project regarding mental health and awareness
 
 
 
-How to open
+How to open:
 Download the files. And open the index.html file in the folder.
 
 
-Motive
+Motive:
 This website is created to aware people about mental health and help them if they are suffering from it. 
 
 
-Languages And Platform used
+Languages And Platform used:
 We have used HTML and CSS to make the website.
 Platform used is Visual studio code. 
 Further we have upload the website with help of google firebase.
 
-Link for Website
+Link for Website:
 https://mentalawareness-by-smct2.web.app/
 
 
-Contributers
+Contributers:
 1.Shivansh Yadav
 2.Abhisurendra Prajapati
 3.Jahnvi Chauhan
