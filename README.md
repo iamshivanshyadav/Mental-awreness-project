@@ -16,7 +16,8 @@ We have used HTML and CSS to make the website.
 Platform used is Visual studio code. 
 Further we have upload the website with help of google firebase.
 
-
+Link for Website
+https://mentalawareness-by-smct2.web.app/
 
 
 Contributers
